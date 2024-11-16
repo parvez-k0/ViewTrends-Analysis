@@ -4,7 +4,6 @@ This project analyzes Netflix's dataset to uncover trends and patterns in conten
 ## 📝 Project Overview
 This analysis of Netflix data provides insights into the distribution and growth of movies and TV shows on the platform. The project focuses on understanding content expansion by category and country, analyzing target demographics, and identifying the most popular genres and ratings across different regions.
 
-This project is part of a series: Project 9/30.
 
 ## 💡 Analysis Proposal
 **Objectives:**
