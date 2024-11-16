@@ -32,7 +32,7 @@ Dataset is available on Kaggle.
 
 # Exploratory Data Analysis (EDA)
 **1. Missing Data**
-    Visualized missing values using a heatmap and handled them by removing rows with essential information missing.
+Visualized missing values using a heatmap and handled them by removing rows with essential information missing.
 **2. Content Growth by Country**
 Analyzed content growth in the USA and India by year.
 **3. Genre Analysis**
