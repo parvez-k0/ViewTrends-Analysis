@@ -8,9 +8,13 @@ This analysis of Netflix data provides insights into the distribution and growth
 ## 💡 Analysis Proposal
 **Objectives:**
 **1. Content Categorization:** Identify the most common genres and types (e.g., Comedies, Dramas) on Netflix.
+
 **2. Demographic Targeting:** Analyze if Netflix targets specific age groups and how this varies by country.
+
 **3. Country-Based Analysis:** Compare the content offerings of major Netflix markets, particularly the USA and India.
+
 **4. Growth Trends:** Track content additions over time to examine growth in Netflix’s offerings.
+
 ## 📄 Dataset Overview
 The dataset includes the following columns:
 
