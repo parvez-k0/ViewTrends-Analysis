@@ -53,5 +53,5 @@ Created a bar plot to illustrate how ratings vary between movies and TV shows, g
 **4. Duration Analysis**
 Displayed a histogram of content duration, highlighting the most common lengths for movies and TV shows on the platform.
 
-#✍️ Conclusion
+# ✍️ Conclusion
 This Netflix data analysis reveals significant trends, such as the dominance of the USA and India in content volume, popular genres and ratings, and a strategic approach to targeting different demographics across countries. The data indicates that Netflix has grown its library considerably over the years, with substantial expansions in both popular and niche genres. This analysis provides a clearer understanding of Netflix’s content distribution strategy and audience targeting efforts.
